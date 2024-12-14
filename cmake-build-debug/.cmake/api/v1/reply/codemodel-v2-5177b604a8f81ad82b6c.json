@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "network",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "abcdef::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-abcdef-Debug-35e1d93ab6e9e65cde1d.json",
+					"name" : "abcdef",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client-Debug-1daca1db162895a3ce10.json",
+					"name" : "client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo1-Debug-46b62008a1c4ef587e77.json",
+					"name" : "demo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo10-Debug-27975ebc6e4ddb630205.json",
+					"name" : "demo10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo11-Debug-b8ee7c07d6cb2540d4d2.json",
+					"name" : "demo11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo12-Debug-c76d0f74195394c52e6c.json",
+					"name" : "demo12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo2-Debug-498096d46ee94396d8bf.json",
+					"name" : "demo2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo3-Debug-75a02b6e846b3905e41c.json",
+					"name" : "demo3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo4-Debug-b4a8197662e8d60e38ed.json",
+					"name" : "demo4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo5-Debug-79131be9f1926bc27e28.json",
+					"name" : "demo5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo6-Debug-e9640e7f7ac3ea9ee278.json",
+					"name" : "demo6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo7-Debug-face59e9947c24294365.json",
+					"name" : "demo7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo8-Debug-3054f6c0c7175b7975ec.json",
+					"name" : "demo8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcpepoll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcpepoll-Debug-65ef6cb3c528f45392a6.json",
+					"name" : "tcpepoll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcppoll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcppoll-Debug-ca2f3a131904faf077fa.json",
+					"name" : "tcppoll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcpselect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcpselect-Debug-1530ce6295c4b60d1720.json",
+					"name" : "tcpselect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test001::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test001-Debug-f30f3eebdf81e3b47079.json",
+					"name" : "test001",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/hdd-data/sunxian/clion/code/network/cmake-build-debug",
+		"source" : "/root/hdd-data/sunxian/clion/code/network"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
